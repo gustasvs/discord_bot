@@ -1,0 +1,4 @@
+id - 696057995125194792
+token - Njk2MDU3OTk1MTI1MTk0Nzky.XojQxA.Vlx4jkzrGDpq7omp3QROfwENCmk
+permissions - 8
+https://discordapp.com/oauth2/authorize?client_id=696057995125194792&scope=bot&permissions=8
